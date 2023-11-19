@@ -3,14 +3,13 @@ import numpy as np
 import os
 import sys
 from dataclasses import dataclass
-
-from src.DiamondPricePrediction.logger import logging
-from src.DiamondPricePrediction.exception import customexception
-
 from sklearn.preprocessing import StandardScaler, OrdinalEncoder
 from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
+
+from src.DiamondPricePrediction.logger import logging
+from src.DiamondPricePrediction.exception import customexception
 from src.DiamondPricePrediction.utils.utils import save_object
 
 @dataclass
