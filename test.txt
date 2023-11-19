@@ -1,0 +1,4 @@
+export MLFLOW_TRACKING_URI=https://dagshub.com/Mahi-29/DiamondPriceProject.mlflow \
+export MLFLOW_TRACKING_USERNAME=Mahi-29 \
+export MLFLOW_TRACKING_PASSWORD=9468347d4f0270521136c1c9278979140eaa2bcf \
+python script.py

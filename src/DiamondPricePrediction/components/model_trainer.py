@@ -9,6 +9,7 @@ from src.DiamondPricePrediction.utils.utils import evaluate_model
 
 from dataclasses import dataclass
 from sklearn.linear_model import LinearRegression, Ridge, Lasso, ElasticNet
+from sklearn.svm import SVR
 
 
 @dataclass
@@ -36,7 +37,8 @@ class ModelTrainer:
             'LinearRegression':LinearRegression(),
             'Lasso':Lasso(),
             'Ridge':Ridge(),
-            'Elasticnet':ElasticNet()
+            'Elasticnet':ElasticNet(),
+            'SVR' : SVR()
         }
             
             model_report:dict=evaluate_model(X_train,y_train,X_test,y_test,models)

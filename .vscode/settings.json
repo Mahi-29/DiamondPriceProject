@@ -1,9 +1,11 @@
 {
     "cSpell.words": [
         "Customexception",
+        "dagshub",
         "Dataframe",
         "datapoint",
         "datapoints",
-        "jsonify"
+        "jsonify",
+        "mlflow"
     ]
 }
