@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Mahish/Ineuron_cource/MachineLearning/DiamondPriceProject/mlruns/0/667d3e1be52c405fb794b62ef5b9c9db/artifacts
+end_time: 1700974384401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 667d3e1be52c405fb794b62ef5b9c9db
+run_name: secretive-loon-948
+run_uuid: 667d3e1be52c405fb794b62ef5b9c9db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700974377131
+status: 3
+tags: []
+user_id: mahis

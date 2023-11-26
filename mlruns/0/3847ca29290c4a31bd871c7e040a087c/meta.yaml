@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Mahish/Ineuron_cource/MachineLearning/DiamondPriceProject/mlruns/0/3847ca29290c4a31bd871c7e040a087c/artifacts
+end_time: 1700980809866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3847ca29290c4a31bd871c7e040a087c
+run_name: vaunted-swan-218
+run_uuid: 3847ca29290c4a31bd871c7e040a087c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700980806215
+status: 3
+tags: []
+user_id: mahis
